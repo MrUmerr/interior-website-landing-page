@@ -114,15 +114,16 @@ buttton:hover{
 }
 
 .title{
-    width: 800px;
+    width: 600px;
     height: 70px;
-    margin-top: 36rem;
-    text-align: center;
+    margin-top: 76rem;
+    justify-content: center;
+    display: flex;
     font-size: 50px;
     font-weight: bolder ;
     background: #009688;
     color: #fff;
-    margin-left: 17rem;
+    margin-left: 23rem;
     border-radius: 35px;
     box-sizing: content-box;
     align-items: center; 
@@ -182,9 +183,14 @@ buttton:hover{
     margin-top: 15px;
 }
 
+.card-content .btn:hover{
+    color: #009688;
+    
+}
+
 footer{
     background-color: #111;
-    margin-top: 45rem;
+    margin-top: 85rem;
     padding: 15px;
     width: 82.45rem;
     height: 13rem;
@@ -230,17 +236,17 @@ footer{
 }
 
 .footernav ul li a{
-    color: #fff;
+    color: #ffffff;
     margin: 20px;
     text-decoration: none;
-    font-size: 1.3em;
+    font-size: 20px;
     opacity: 0.7;
-    transition: 0.9s;
-    
+    transition: 0.9s;    
 }
 
 .footernav ul li a:hover{
-    background-color: #111;
+    color: #009688;
+    
 }
 
 .footerbtm{
