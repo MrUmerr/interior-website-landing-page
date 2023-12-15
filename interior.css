@@ -113,10 +113,10 @@ buttton:hover{
     border: none;
 }
 
-.title{
+.title h3{
     width: 600px;
     height: 70px;
-    margin-top: 76rem;
+    margin-top: 87rem;
     justify-content: center;
     display: flex;
     font-size: 50px;
@@ -138,6 +138,8 @@ buttton:hover{
    display: flex;
    justify-content: center;
    flex-wrap: wrap;
+   margin-bottom: 15rem;
+   position: relative;
 }
 
 .card{
@@ -190,7 +192,7 @@ buttton:hover{
 
 footer{
     background-color: #111;
-    margin-top: 85rem;
+    margin-top: 95rem;
     padding: 15px;
     width: 82.45rem;
     height: 13rem;
@@ -265,5 +267,29 @@ footer{
     text-decoration: none;
     font-size: 19px;
     font-weight: bold;
+}
+
+.latestblog{
+    position: absolute;
+    width: 600px;
+    height: 70px;
+    margin-top: 36rem;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder ;
+    background: #009688;
+    color: #fff;
+    margin-left: 23rem;
+    border-radius: 35px;
+    box-sizing: content-box;
+    align-items: center; 
+    margin-bottom: 2rem;
+    
+}
+
+.latestblog h3{
+    font-size: 50px;
+    
 }
 
