@@ -117,7 +117,7 @@ buttton:hover {
 .title h3 {
     width: 600px;
     height: 70px;
-    margin-top: 87rem;
+    margin-top: 10rem;
     justify-content: center;
     display: flex;
     font-size: 50px;
@@ -139,7 +139,7 @@ buttton:hover {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 15rem;
+    margin-bottom: 6rem;
     position: relative;
 }
 
@@ -359,4 +359,29 @@ footer {
 .blogdesc {
     padding-bottom: 22px;
     
+}
+
+.titleimg {
+    width: 800px;
+    height: 70px;
+    margin-top: 85rem;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+    background: #009688;
+    color: #fff;
+    margin-left: 18rem;
+    border-radius: 35px;
+    box-sizing: content-box;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.classimages {
+    height: 35rem;
+    width: 72rem;
+    border: solid black;
+    margin-top: 9rem;
+    margin-left: 6rem;
 }
