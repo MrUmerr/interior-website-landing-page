@@ -381,7 +381,7 @@ footer {
 .classimages {
     height: 35rem;
     width: 72rem;
-    border: solid black;
     margin-top: 9rem;
-    margin-left: 6rem;
+    margin-left: 8rem;
+    overflow: hidden;
 }
